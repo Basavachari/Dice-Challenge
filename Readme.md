@@ -91,5 +91,3 @@ A/B  | 1  2  2  3  3  4
 In this assignment, we successfully determined total combinations, calculated probability distributions, and reconstructed face values for two dice while maintaining the same probability constraints. The code is available in the [GitHub repository](https://github.com/Basavachari/Dice-Challenge) for reference.
 
 ---
-
-Feel free to modify this template according to your assignment details, and include additional sections or details as needed.
